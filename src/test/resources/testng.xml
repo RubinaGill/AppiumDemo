@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite thread-count="1" name="Suite" parallel="tests">
+    <listeners>
+
+    </listeners>
+    <test name="iPad Air">
+        <classes>
+            <class name="tests.LoginPageTest"></class>
+        </classes>
+    </test>
+</suite> <!-- Suite -->
