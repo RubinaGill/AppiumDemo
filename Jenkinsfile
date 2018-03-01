@@ -13,8 +13,13 @@ pipeline {
         }
         stage('Test'){
           steps{
-            sh 'mvn test -DsuiteXmlFile=testng.xml'
+            sh 'mvn test -DsuiteXmlFile=src/test/resources/testng.xml'
           }
+          post {
+          always {
+              step([$class: 'Publisher', reportFilenamePattern: '**/testng-results.xml'])
+          }
+}
         }
     }
 }

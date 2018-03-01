@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]" parallel="tests">
+  <test name="iPad Air(failed)" parallel="tests">
+    <classes>
+      <class name="tests.LoginPageTest">
+        <methods>
+          <include name="quitBrowser"/>
+          <include name="loginWithInValidCredentialsTest"/>
+          <include name="initiateBrowser"/>
+        </methods>
+      </class> <!-- tests.LoginPageTest -->
+    </classes>
+  </test> <!-- iPad Air(failed) -->
+</suite> <!-- Failed suite [Suite] -->

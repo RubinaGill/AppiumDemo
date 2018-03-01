@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="154766" started-at="2018-03-01T10:52:24Z" finished-at="2018-03-01T10:54:59Z">
+    <groups>
+    </groups>
+    <test name="iPad Air" duration-ms="154766" started-at="2018-03-01T10:52:24Z" finished-at="2018-03-01T10:54:59Z">
+      <class name="tests.LoginPageTest">
+        <test-method status="PASS" signature="initiateBrowser(org.testng.ITestContext)[pri:0, instance:tests.LoginPageTest@598067a5]" name="initiateBrowser" is-config="true" duration-ms="63517" started-at="2018-03-01T14:52:24Z" finished-at="2018-03-01T14:53:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@335eadca]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateBrowser -->
+        <test-method status="PASS" signature="loginWithInValidCredentialsTest()[pri:0, instance:tests.LoginPageTest@598067a5]" name="loginWithInValidCredentialsTest" duration-ms="2" started-at="2018-03-01T14:53:27Z" finished-at="2018-03-01T14:53:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInValidCredentialsTest -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.LoginPageTest@598067a5]" name="quitBrowser" is-config="true" duration-ms="15809" started-at="2018-03-01T14:53:27Z" finished-at="2018-03-01T14:53:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="initiateBrowser(org.testng.ITestContext)[pri:0, instance:tests.LoginPageTest@598067a5]" name="initiateBrowser" is-config="true" duration-ms="58552" started-at="2018-03-01T14:53:43Z" finished-at="2018-03-01T14:54:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@335eadca]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateBrowser -->
+        <test-method status="PASS" signature="loginWithValidCredentialsTest()[pri:0, instance:tests.LoginPageTest@598067a5]" name="loginWithValidCredentialsTest" duration-ms="1" started-at="2018-03-01T14:54:42Z" finished-at="2018-03-01T14:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentialsTest -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:tests.LoginPageTest@598067a5]" name="quitBrowser" is-config="true" duration-ms="16874" started-at="2018-03-01T14:54:42Z" finished-at="2018-03-01T14:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- tests.LoginPageTest -->
+    </test> <!-- iPad Air -->
+  </suite> <!-- Suite -->
+</testng-results>
