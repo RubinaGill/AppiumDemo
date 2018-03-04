@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a25b0f5d-553a-4e2b-9dd3-82ee2224b503" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftCore.dylib" afterPath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftCore.dylib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftCoreData.dylib" afterPath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftCoreData.dylib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftCoreFoundation.dylib" afterPath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftCoreFoundation.dylib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftCoreGraphics.dylib" afterPath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftCoreGraphics.dylib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftCoreImage.dylib" afterPath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftCoreImage.dylib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftDarwin.dylib" afterPath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftDarwin.dylib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftDispatch.dylib" afterPath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftDispatch.dylib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftFoundation.dylib" afterPath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftFoundation.dylib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftMetal.dylib" afterPath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftMetal.dylib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftObjectiveC.dylib" afterPath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftObjectiveC.dylib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftQuartzCore.dylib" afterPath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftQuartzCore.dylib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftSwiftOnoneSupport.dylib" afterPath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftSwiftOnoneSupport.dylib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftUIKit.dylib" afterPath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftUIKit.dylib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftos.dylib" afterPath="$PROJECT_DIR$/target/classes/app/HitList.app/Frameworks/libswiftos.dylib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/app/HitList.app/HitList" afterPath="$PROJECT_DIR$/target/classes/app/HitList.app/HitList" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/app/HitList.app/libswiftRemoteMirror.dylib" afterPath="$PROJECT_DIR$/target/classes/app/HitList.app/libswiftRemoteMirror.dylib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/AppiumFramework.iml" afterPath="$PROJECT_DIR$/.idea/AppiumFramework.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/iPad Air.html" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/iPad Air.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/iPad Air.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/iPad Air.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-tests.LoginPageTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-tests.LoginPageTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-alphabetical.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/testng.xml.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/testng.xml.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/testng.xml" afterPath="$PROJECT_DIR$/target/test-classes/testng.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jenkinsfile" afterPath="$PROJECT_DIR$/Jenkinsfile" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,8 +18,18 @@
       <file leaf-file-name="Jenkinsfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Jenkinsfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="456">
+              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,6 +51,7 @@
         <option value="$PROJECT_DIR$/src/test/java/tests/LoginPageTest.java" />
         <option value="$PROJECT_DIR$/src/test/resources/testng.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Jenkinsfile" />
       </list>
     </option>
   </component>
@@ -93,9 +71,10 @@
   <component name="MavenRunner">
     <option name="jreName" value="#JAVA_INTERNAL" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
     <option name="y" value="23" />
-    <option name="width" value="1835" />
+    <option name="width" value="1720" />
     <option name="height" value="942" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -118,6 +97,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -135,51 +116,7 @@
               <item name="AppiumFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="AppiumFramework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AppiumFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AppiumFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AppiumFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AppiumFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="configuration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AppiumFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AppiumFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utility" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AppiumFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AppiumFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AppiumFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AppiumFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AppiumFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AppiumFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AppiumFramework" type="b2602c69:ProjectViewProjectNode" />
@@ -193,13 +130,17 @@
               <item name="AppiumFramework" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AppiumFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppiumFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="surefire-reports" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -355,7 +296,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1835" height="942" extended-state="0" />
+    <frame x="-8" y="23" width="1720" height="942" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -370,7 +311,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25350532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19664268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -394,6 +335,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Jenkinsfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -524,8 +473,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Jenkinsfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="456">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
           <folding />
         </state>
       </provider>
